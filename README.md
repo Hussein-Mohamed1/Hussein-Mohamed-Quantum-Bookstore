@@ -21,4 +21,5 @@ A simple online bookstore that supports different book types:
 
 Run the `QuantumBookstoreFullTest` class to test adding, removing, and buying books.
 
-The system is designed to easily add new product types without changing existing code.
+## Author
+Hussein Mohamed
